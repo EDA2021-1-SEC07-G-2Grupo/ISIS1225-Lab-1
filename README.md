@@ -1,5 +1,5 @@
 #ISIS1225 - Estructura de un proyecto
-Paso 10
+Paso 10:
 INTEGRANTES DEL GRUPO 1 DE LA SECCIÓN 7:
 
 Paola Campiño, paocampino@uniandes.edu.co, 202020785
