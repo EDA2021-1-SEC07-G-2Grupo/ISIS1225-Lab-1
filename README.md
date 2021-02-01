@@ -1,4 +1,9 @@
 #ISIS1225 - Estructura de un proyecto
+Paso 10
+INTEGRANTES DEL GRUPO 1 DE LA SECCIÓN 7:
+
+Paola Campiño, paocampino@uniandes.edu.co, 202020785
+Santiago Ballen, s.balleno@uniandes.edu.co, 202023544
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
