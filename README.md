@@ -1,6 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
 
-INTEGRANTES DEL GRUPO 1 DE LA SECCIÓN 7:
+INTEGRANTES DEL GRUPO 2 DE LA SECCIÓN 7:
 
 Paola Campiño, paocampino@uniandes.edu.co, 202020785
 Santiago Ballen, s.balleno@uniandes.edu.co, 202023544
