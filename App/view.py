@@ -42,7 +42,7 @@ def printMenu():
     print("Opciones:")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
-    print("3- Cargar archivo  'book_tags.csv'")
+    print("3- Cargar archivo 'book_tags.csv'")
     print("0- Salir")
 
 
@@ -76,7 +76,7 @@ while True:
         tags = loadTags()
         print('Total de tags cargados: ' + str(lt.size(tags)))
     elif int (inputs[0])== 3:
-        print("Cargando información de él archivo 'book_tags.csv'....")
+        print("Cargando la información de él archivo 'book_tags.csv'....")
 
     else:
         sys.exit(0)
